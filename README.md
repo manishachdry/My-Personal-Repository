@@ -1,16 +1,20 @@
-### Hi there 👋
+# My-Personal-Repository
+                                                               "Hi"🤗  ,   I'm Manisha Choudhary
 
-<!--
-**manishachdry/manishachdry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                                     A passionate Data Scientist
 
-Here are some ideas to get you started:
+# 🌱 Data Science and Machine Learning with Scaler Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 All of my projects are available at  https://github.com/manishachdry/Projects
+
+💬 Ask me about Python , Pandas, NumPy , Matplotlib, Seaborn , Scikit-Learn ,MySQL , Power BI , Tableau , Probability Mathematics , Inferential Statistical, Supervised Machine Learning
+
+📫 How to reach me manishachoudhary051960@gmail.com
+
+🔗connect with me:
+https://www.linkedin.com/in/manisha-choudhary-4463a9235
+
+
+Languages and Tools:
+mysql oracle pandas photoshop postgresql python scikit_learn seaborn
+
